@@ -8,24 +8,24 @@
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="dots" multiple="2" display="yes" altdistance="25" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
@@ -41,15 +41,15 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -67,10 +67,10 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="99" name="Anatomie" color="7" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Hidden" color="57" fill="4" visible="yes" active="yes"/>
-<layer number="102" name="Changes" color="13" fill="1" visible="yes" active="yes"/>
+<layer number="101" name="Hidden" color="57" fill="4" visible="no" active="yes"/>
+<layer number="102" name="Changes" color="13" fill="1" visible="no" active="yes"/>
 <layer number="103" name="tMap" color="29" fill="4" visible="no" active="yes"/>
-<layer number="104" name="Name" color="16" fill="1" visible="yes" active="yes"/>
+<layer number="104" name="Name" color="16" fill="1" visible="no" active="yes"/>
 <layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
@@ -161,50 +161,78 @@
 DIN
 5V
 Gnd</text>
-<text x="20.32" y="53.34" size="1.778" layer="21" rot="R90">Feather MCU</text>
-<text x="45.72" y="20.32" size="2.032" layer="21" ratio="15" rot="R90">ATEM Tally Light
+<text x="88.9" y="16.51" size="2.032" layer="21" ratio="15" rot="R180">ATEM Tally &amp;
 Camera Light </text>
-<text x="30.48" y="48.26" size="1.4224" layer="21" ratio="15" rot="R90">Adafruit Feather
-Neopixel Feedback
-RFM69 Radio tally lights</text>
-<text x="34.29" y="26.035" size="1.4224" layer="21" ratio="15" rot="R180">OSHW
-SPCoast
-John Plocher
-2020.10</text>
 <text x="5.715" y="28.575" size="1.4224" layer="21" ratio="15" rot="R90">Pin6 - Neopixels</text>
 <text x="53.34" y="22.86" size="1.778" layer="21" rot="R270">Gnd
 DIN
 5V
 Gnd</text>
-<text x="69.85" y="53.34" size="1.778" layer="21" rot="R90">Feather MCU</text>
-<text x="95.25" y="20.32" size="2.032" layer="21" ratio="15" rot="R90">ATEM Tally Light
-Camera Light </text>
-<text x="80.01" y="48.26" size="1.4224" layer="21" ratio="15" rot="R90">Adafruit Feather
+<text x="69.85" y="62.23" size="1.778" layer="21" rot="R90">Feather MCU</text>
+<text x="80.01" y="58.42" size="1.4224" layer="21" ratio="15" rot="R90">Adafruit Feather
 Neopixel Feedback
 RFM69 Radio tally lights</text>
-<text x="83.82" y="25.4" size="1.4224" layer="21" ratio="15" rot="R180">OSHW
+<text x="88.9" y="81.28" size="1.4224" layer="21" ratio="15" rot="R270">OSHW
 SPCoast
 John Plocher
-2020.10</text>
+2020.11</text>
 <text x="56.515" y="28.575" size="1.4224" layer="21" ratio="15" rot="R90">Pin6 - Neopixels</text>
-<text x="11.43" y="83.82" size="3.81" layer="22" ratio="15" rot="MR270">Tally Light Receiver</text>
-<text x="59.69" y="83.82" size="3.81" layer="22" ratio="15" rot="MR270">Tally Light Receiver</text>
-<text x="27.94" y="39.37" size="1.778" layer="22" ratio="15" rot="MR270">SPCoast.com
+<text x="11.43" y="90.17" size="3.81" layer="22" ratio="15" rot="MR270">Tally Light Receiver</text>
+<text x="62.23" y="90.17" size="3.81" layer="22" ratio="15" rot="MR270">Tally Light Receiver</text>
+<text x="27.94" y="67.31" size="1.778" layer="22" ratio="15" rot="MR270">SPCoast.com
 John Plocher
-2020.10</text>
-<text x="76.2" y="40.64" size="1.778" layer="22" ratio="15" rot="MR270">SPCoast.com
+2020.11</text>
+<text x="78.74" y="67.31" size="1.778" layer="22" ratio="15" rot="MR270">SPCoast.com
 John Plocher
-2020.10</text>
+2020.11</text>
 <wire x1="1.27" y1="78.74" x2="1.27" y2="26.67" width="0.254" layer="21"/>
 <wire x1="11.43" y1="78.74" x2="11.43" y2="26.67" width="0.254" layer="21"/>
 <wire x1="1.27" y1="78.74" x2="11.43" y2="78.74" width="0.254" layer="21"/>
 <wire x1="52.07" y1="78.74" x2="52.07" y2="26.67" width="0.254" layer="21"/>
 <wire x1="62.23" y1="78.74" x2="62.23" y2="26.67" width="0.254" layer="21"/>
 <wire x1="52.07" y1="78.74" x2="62.23" y2="78.74" width="0.254" layer="21"/>
-<text x="46.99" y="64.77" size="1.778" layer="21" font="vector" ratio="10" rot="R90">Camera
-Number</text>
-<text x="96.52" y="64.77" size="1.778" layer="21" font="vector" ratio="10" rot="R90">Camera
-Number</text>
+<text x="39.37" y="16.51" size="2.032" layer="21" ratio="15" rot="R180">ATEM Tally &amp;
+Camera Light </text>
+<text x="20.32" y="62.23" size="1.778" layer="21" rot="R90">Feather MCU</text>
+<text x="30.48" y="58.42" size="1.4224" layer="21" ratio="15" rot="R90">Adafruit Feather
+Neopixel Feedback
+RFM69 Radio tally lights</text>
+<text x="39.37" y="81.28" size="1.4224" layer="21" ratio="15" rot="R270">OSHW
+SPCoast
+John Plocher
+2020.11</text>
+<text x="34.29" y="20.32" size="1.016" layer="21" font="vector" ratio="10" rot="R90">         Camera
+^ x x x  Address
+=============
+^ v v v  = Cam 1
+^ v v ^  = Cam 2
+^ v ^ v  = Cam 3
+^ v ^ ^  = Cam 4
+^ ^ v v  = Cam 5
+^ ^ v ^  = Cam 6
+^ ^ ^ v  = Cam 7
+^ ^ ^ ^  = Cam 8
+</text>
+<text x="46.99" y="21.59" size="1.27" layer="21" font="vector" ratio="15" rot="R90">v ^ v x = Transmitter Test
+v v v x = Transmitter SDI
+v ^ ^ x = RSSI Meter
+^ x x x = Camera Tally</text>
+<text x="83.82" y="20.32" size="1.016" layer="21" font="vector" ratio="10" rot="R90">         Camera
+^ x x x  Address
+=============
+^ v v v  = Cam 1
+^ v v ^  = Cam 2
+^ v ^ v  = Cam 3
+^ v ^ ^  = Cam 4
+^ ^ v v  = Cam 5
+^ ^ v ^  = Cam 6
+^ ^ ^ v  = Cam 7
+^ ^ ^ ^  = Cam 8
+</text>
+<text x="96.52" y="21.59" size="1.27" layer="21" font="vector" ratio="15" rot="R90">v ^ v x = Transmitter Test
+v v v x = Transmitter SDI
+v ^ ^ x = RSSI Meter
+^ x x x = Camera Tally</text>
 </plain>
 <libraries>
 <library name="SPCoast">
